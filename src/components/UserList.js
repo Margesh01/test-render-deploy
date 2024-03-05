@@ -21,14 +21,14 @@ function UserList() {
 
   return (
     <div>
-      <h2>Hello Cutie Pattotie</h2>
-      {/* <ul>
+      <h2>User List</h2>
+      <ul>
         {users.map(user => (
           <li key={user.id}>
             <strong>{user.name}</strong> - {user.email}
           </li>
         ))}
-      </ul> */}
+      </ul>
       
     </div>
   );
